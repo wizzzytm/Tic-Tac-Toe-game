@@ -1,0 +1,11 @@
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\adria_vgmu5pj\OneDrive\Pulpit\Projects\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
